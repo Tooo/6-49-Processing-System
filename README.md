@@ -14,11 +14,11 @@ python 6-49-Processing-System.py
 ```
 
 ## Sample Run
-In this sample run, the program will input 3 draws from the file In_data_draws3.csv.
+In this sample run, the program will input 3 draws from the file [In_data_draws3.csv.](/IN_data_draws3.csv)
 Three options will be chosen:
-1. ```ALL```
-2. ```SEL - D - 2```
-3. ```SEL - M - 8```
+1. [All](#option-1-all)
+2. [Tuesday](#option-2-tuesday)
+3. [August](#option-3-august)
 
 ### Option 1: All
 ```
@@ -60,7 +60,9 @@ Please confirm the output file name for your selected data
 
 Type x for OUTPUT file name 'OUT_results3.csv', or a new file name ==>
 ```
-Input: ```x```
+Input: ```x``` 
+
+Output File: [OUT_results3.csv](/OUT_results3.csv)
 
 ```
  JUST TO TRACE, the draw being processed is:
@@ -124,7 +126,7 @@ Input: ```y```
 #### Distribution Graph
 ![Graph1](/Images/Graph1.PNG)
 
-### Option 2: Tuesdays
+### Option 2: Tuesday
 ```
 Please choose one of three options:
 
@@ -155,7 +157,9 @@ Please confirm the output file name for your selected data
 
 Type x for OUTPUT file name 'OUT_results3.csv', or a new file name ==>
 ```
-Input OUT_result3_Tues.csv
+Input ```OUT_result3_Tues.csv```
+
+Output File: [OUT_results3_Tues.csv](/OUT_results3_Tues.csv)
 ```
 JUST TO TRACE, the draw being processed is:
 
