@@ -6,7 +6,7 @@ Max, averages, number of times, number in range, most frequently drawn, and a di
 ## Installation
 1. Clone the repository
 ```bash
-git clone git@github.com:Toooo123/6-49-Processing-System.git
+git clone https://github.com/Toooo123/6-49-Processing-System.git
 ```
 2. Run the program with Python 3
 ```bash
